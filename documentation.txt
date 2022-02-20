@@ -1,0 +1,19 @@
+Kanji Tower is a the application inspired by funny game called Cat Game and language learning flashcards. User starts from first floor with one character. Playing minigames like quizes, memo etc. they earn currency and can buy resourcer and in the end get new characters and floors.
+
+Floors
+On each floor is 7 characters. First character on first floor and first floor itself is unlocked by default.
+
+Getting new characters
+Player can click any unlocked character to send her to search new characters. She can bring back resources or new characters. Percentage of success of bringing a new friend is depended on how many decorations are on floor.
+
+Getting resources
+//todo
+
+Getting decorations (deco)
+//todo
+
+Getting points
+//todo
+
+Style points
+Decorations gives style points. When player collects enough style points it unlocks new floor. New characters also adds style points.

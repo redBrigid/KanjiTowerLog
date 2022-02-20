@@ -1,0 +1,24 @@
+ ==== Day 1 ====
+
+So... I decided to try #100daysofcode challange, to grow as programmer and meet new people from programming world. As I found somewhere - we are like avarage of 5 closest people. When I think about it makes sense so I'm going to change something and this challnage is kind of try of such change.
+I decided to try to mix kind of flashcard app with Cat Game where player collects cats (here would collect kanjis). Such app will involve not only my programming skills but also drawing and learning Japanese.
+That's quite ambitious but I want to try it.
+
+So today:
+- I made a brand new user account on Windows to not get distracted by my normal account
+- of course nothing worked there (VSC, I totally messed up git...(oh! why not? eh...), at least node worked...) so I spent a few hours to make it work (and I discovered something like git portable, really handy thing) - does it count as this day completing ^^'? <- just joking
+- I had to learn a few new commands in windows cmd (as they're different from linux's I know)
+- I made 2 repos - this log repo and main app repo
+- I made dedicated accounts: Windows user account, this github account and Twitter account @red_brigid
+- I created new a React project with basic structure (hmm... maybe I should be preparing some kind of documentation? It's not going to be that simple project...). I also had idea to use Ionic with React but maybe I'll port it to Ionic one day or React native. I see a lot of offerts for React native dev but none for Ionic... is it worth to learn Ionic then? Or better invest into React native?
+- I messed a but with map() but fixed - I have now nested component mapped from array
+- I wonder how to properly use pictures in git... I made it work with switch but with enormous set of pictures and planned pagination it won't make sense but we shall see...
+- I made scratch of documentation
+- I deleted index.html, oh, why not? XD That's the achievement!
+
+Subjects to explore:
+- pictures in React
+
+Plans for tomorrow:
+- style a bit my "tower"
+- make character clickable
