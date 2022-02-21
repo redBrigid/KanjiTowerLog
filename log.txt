@@ -21,4 +21,24 @@ Subjects to explore:
 
 Plans for tomorrow:
 - style a bit my "tower"
-- make character clickable
+- make Character clickable
+
+==== Day 2 ====
+
+Struggling with CSS was really demotivating. And it's only 2nd day! Eh...
+
+But it did both planned things for today:
+- styling with CSS flex Tower Components to have them aligned like in original Cat Game
+- making Character clickable
+
+Subjects to explore:
+- passing clicked button's data on click
+
+Plans for tomorrow:
+ - not sure if my lack of patience for CSS will be enough so I'll make this aim optional: make CSS nicer...
+ - continue documentation to know what I'm going to do
+ - add Quizes Component with at least 1 empty Quiz Component
+ - add currency and style points bar
+
+
+
