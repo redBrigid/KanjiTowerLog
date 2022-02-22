@@ -40,5 +40,13 @@ Plans for tomorrow:
  - add Quizes Component with at least 1 empty Quiz Component
  - add currency and style points bar
 
+==== Day 3 ====
 
+After yesterday's frustration today was better. I decided to change number of kanji on floor from 7 to 10. I considered 5, but as I'm making web version now and 10 can be easilly divided by 2 to get 5 I switched to 10.
+
+I did all what I planned:
+- I fixed CSS mess a bit, still a lot to polish but at last looking at it doesn't hurt my eyes ;)
+- planned components added, empty but added
+- as extra thing I added drawing of one of kanji and gradually will be adding next
+- I updated documentation
 
