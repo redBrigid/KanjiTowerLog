@@ -50,3 +50,32 @@ I did all what I planned:
 - as extra thing I added drawing of one of kanji and gradually will be adding next
 - I updated documentation
 
+==== Day 4 ====
+
+I see I didn't write yesterday plans for today... So... I decided to prepare a templete (on the end of this file) which I'm going copy-paste XD. So plans for today... emm... I saw nice "breathing" element on Twitter by @Majin_Bue so maybe I'll try to implement something similar :D. Today I have less time for project so it will be fine I think :D.
+
+To do:
+- add breathing animation in CSS for kanji
+
+Results:
+- added planned animation
+
+Plans for tomorrow:
+- find a way to lock floor to not shrink together with animated kanji
+
+
+-----------------------------
+
+
+TEMPLATE:
+==== Day XXX ===
+
+[short comment]
+
+[Results: did i met plans?]
+
+[Subjects to explore: optional]
+
+[Discoveries: optional]
+
+[Plans for tomorrow: todo]
