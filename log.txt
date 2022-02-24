@@ -65,15 +65,15 @@ Plans for tomorrow:
 
 ==== Day 5 ===
 
-[short comment]
+I fixed Floors. THey're not breathing any longer.
 
-[Results: did i met plans?]
+Results: 
+- done what planned, not much but I'm rearranging my learning a bit
 
-[Subjects to explore: optional]
+Subjects to explore: learn how to learn
 
-[Discoveries: optional]
-
-[Plans for tomorrow: todo]
+Plans for tomorrow:
+- start states at last
 
 
 -----------------------------
@@ -84,10 +84,11 @@ TEMPLATE:
 
 [short comment]
 
-[Results: did i met plans?]
+Results: did i met plans?
 
-[Subjects to explore: optional]
+Subjects to explore: optional
 
-[Discoveries: optional]
+Discoveries: optional
 
-[Plans for tomorrow: todo]
+Plans for tomorrow: 
+- todo
