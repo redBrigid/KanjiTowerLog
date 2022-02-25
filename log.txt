@@ -63,7 +63,7 @@ Results:
 Plans for tomorrow:
 - find a way to lock floor to not shrink together with animated kanji
 
-==== Day 5 ===
+==== Day 5 ====
 
 I fixed Floors. THey're not breathing any longer.
 
@@ -75,12 +75,21 @@ Subjects to explore: learn how to learn
 Plans for tomorrow:
 - start states at last
 
+==== Day 6 ====
+
+I started today using Redux to manage app state.
+
+Results: 
+- I created store, actions, reducers and dispatcher and used them on Currency Component to increment and decrement its value (final version will be far complex, this version is for tests)
+
+Plans for tomorrow: 
+- plan states and implement them
+
 
 -----------------------------
 
-
 TEMPLATE:
-==== Day XXX ===
+==== Day XXX ====
 
 [short comment]
 
