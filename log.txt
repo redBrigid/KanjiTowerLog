@@ -85,6 +85,18 @@ Results:
 Plans for tomorrow: 
 - plan states and implement them
 
+==== Day 7 ====
+
+Not much today but just a little is still better than nothing.
+I can't concentrate today. Added more states to redux but got stupid bug but let it be for now, I'll fix tomorrow.
+
+Results:
+- added more states
+
+Plans for tomorrow: 
+- continue adding states
+- fix bug in navigator in both onclicks
+
 
 -----------------------------
 
