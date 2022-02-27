@@ -97,6 +97,19 @@ Plans for tomorrow:
 - continue adding states
 - fix bug in navigator in both onclicks
 
+==== Day 8 ====
+
+I fixed bug in nav dispatch. Problem was that I wrote onClick{dispatch(myAction())} instead of onClick{()=>dispatch(myAction())} 
+
+Results:
+- didn't add new states, need to plan them first, had hard emotionally day
+- I fixed dispatch bug in nav buttons
+
+Plans for tomorrow: 
+- do plan about required states
+- new states based on plan or whatever else what I'll plan in documentation if I realize I have enough states for now
+
+
 
 -----------------------------
 
