@@ -7,6 +7,13 @@ Getting new characters
 Player can click any unlocked character to send him/her to search new characters. She can bring back resources or new characters. Percentage of success of bringing a new friend is depended on how many decorations are on floor.
 Sending character is executed after finishing quiz with at least 70% correct answers.
 
+Character
+After clicking on character it opens details of character instead of tower with possibility of going back to tower.
+
+Languages version
+In navigation I want to have language switcher for English and Polish version.
+Should be a JSON file with translations and from there I'm going to take values.
+
 Getting resources
 //todo
 

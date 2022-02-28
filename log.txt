@@ -109,6 +109,20 @@ Plans for tomorrow:
 - do plan about required states
 - new states based on plan or whatever else what I'll plan in documentation if I realize I have enough states for now
 
+==== Day 9 ====
+
+Redux still is complex... but I'm gradually fore and more familiar with it.
+
+Results:
+- I added CharacterDetails component
+- I added navigating to it with redux
+
+Subjects to explore: 
+- consider making cheat-sheet for redux - I still keep forgeting important details like imports
+
+Plans for tomorrow: 
+- get access to payload in CharacterDetails component - fix bug making payload undefined
+- add Back button in CharacterDetails
 
 
 -----------------------------
