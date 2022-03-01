@@ -124,7 +124,17 @@ Plans for tomorrow:
 - get access to payload in CharacterDetails component - fix bug making payload undefined
 - add Back button in CharacterDetails
 
+==== Day 10 ====
 
+I made a quite complex chart for redux. I hope it will help me.
+
+Results:
+- made complex redux cheatsheet chart
+- didn't even touch payload or back button
+
+Plans for tomorrow: 
+- get access to payload in CharacterDetails component - fix bug making payload undefined
+- add Back button in CharacterDetails
 -----------------------------
 
 TEMPLATE:
