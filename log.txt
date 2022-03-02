@@ -135,6 +135,18 @@ Results:
 Plans for tomorrow: 
 - get access to payload in CharacterDetails component - fix bug making payload undefined
 - add Back button in CharacterDetails
+
+==== Day 11 ====
+
+I fugured out accessing payload in Redux.
+
+Results: 
+- I accessed payload
+
+Plans for tomorrow: 
+- add Back button in CharacterDetails
+- start simple quiz
+
 -----------------------------
 
 TEMPLATE:
