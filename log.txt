@@ -138,7 +138,7 @@ Plans for tomorrow:
 
 ==== Day 11 ====
 
-I fugured out accessing payload in Redux.
+I figured out accessing payload in Redux.
 
 Results: 
 - I accessed payload
@@ -150,11 +150,14 @@ Plans for tomorrow:
 -----------------------------
 
 TEMPLATE:
-==== Day XXX ====
+==== Day 12 ====
 
-[short comment]
+I updated documentation and did what planned.
 
-Results: did i met plans?
+Results: 
+- updated documentation
+
+did i met plans?
 
 Subjects to explore: optional
 

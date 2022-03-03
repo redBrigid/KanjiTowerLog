@@ -25,3 +25,10 @@ Getting points
 
 Style points
 Decorations gives style points. When player collects enough style points it unlocks new floor. New characters also adds style points.
+
+Quiz
+To quiz is given payload with current set to learn and all cards are displayed one by one. If user will click '+' it will be removed from set, if '-' will be moved to end of set until remembered.
+
+Current set
+//todo - for now it's given full JSON, not filtered in any way
+
