@@ -147,21 +147,25 @@ Plans for tomorrow:
 - add Back button in CharacterDetails
 - start simple quiz
 
------------------------------
-
-TEMPLATE:
 ==== Day 12 ====
 
 I updated documentation and did what planned.
 
 Results: 
 - updated documentation
-
-did i met plans?
-
-Subjects to explore: optional
-
-Discoveries: optional
+- made a base for Quiz
 
 Plans for tomorrow: 
-- todo
+- continue Quiz
+
+==== Day 13 ====
+
+Tried to figure out how to dispatch at once more than 1 action but no results so far...
+I made only index action.
+I realized that passing data as payload it resets, so this hack i bad idea I guess.
+
+Results:
+- made index action
+
+Plans for tomorrow: 
+- dispatch 2 actions (mode and index at once)
