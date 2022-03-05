@@ -169,3 +169,14 @@ Results:
 
 Plans for tomorrow: 
 - dispatch 2 actions (mode and index at once)
+
+==== Day 14 ====
+
+Results:
+- messing with Redux 
+- CSS
+- rebuilt JSON structure
+- destroyed Tower
+
+Plans for tomorrow: 
+- rebuilt Tower
