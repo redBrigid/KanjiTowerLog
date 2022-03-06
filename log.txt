@@ -180,3 +180,15 @@ Results:
 
 Plans for tomorrow: 
 - rebuilt Tower
+
+==== Day 15 ====
+
+Results:
+- I rebuilt Tower
+- found and applied nice font for characters
+
+Plans for tomorrow: 
+- write in CSS CharacterDetails displaying
+- 
+
+
