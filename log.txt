@@ -189,6 +189,12 @@ Results:
 
 Plans for tomorrow: 
 - write in CSS CharacterDetails displaying
-- 
 
+==== Day 16 ====
 
+Results:
+- CSS CharacterDetails displaying
+
+Plans for tomorrow: 
+- look around what to fix, what I don't like etc.
+- make a list and at least one thing from it
