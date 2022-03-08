@@ -198,3 +198,14 @@ Results:
 Plans for tomorrow: 
 - look around what to fix, what I don't like etc.
 - make a list and at least one thing from it
+
+==== Day 17 ====
+
+I decided to make a quick funny side project Color Master to hone my CSS skills so I'm leaving for a while Kanji Tower.
+
+Results:
+- basic design and CSS for Color Master
+
+Plans for tomorrow: 
+- finish CSS and design
+- start js functionality
