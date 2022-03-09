@@ -209,3 +209,17 @@ Results:
 Plans for tomorrow: 
 - finish CSS and design
 - start js functionality
+
+==== Day 18 ====
+
+I continue Color Master.
+
+Results:
+- accessing image from another folder
+- max height
+- full responsive background
+
+Plans for tomorrow: 
+- finish CSS and design
+- start js functionality
+
