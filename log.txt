@@ -223,3 +223,12 @@ Plans for tomorrow:
 - finish CSS and design
 - start js functionality
 
+==== Day 19 ====
+
+My plans changed totally and I made blog about networking using template.
+
+Results:
+- full blog with text and graphics
+
+Plans for tomorrow: 
+- no idea XD
