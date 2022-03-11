@@ -232,3 +232,11 @@ Results:
 
 Plans for tomorrow: 
 - no idea XD
+
+==== Day 20 ====
+
+Results:
+- simple fixes in "the blog"
+
+Plans for tomorrow: 
+- start a new quick project for portfolio - maybe gallery or flashcards?
