@@ -240,3 +240,13 @@ Results:
 
 Plans for tomorrow: 
 - start a new quick project for portfolio - maybe gallery or flashcards?
+
+==== Day 21 ====
+
+Results:
+- preparing template for Flashcards project
+- repository for Flashcards
+- planning big mobile group project
+
+Plans for tomorrow: 
+- list of changes in jQuery code to do
