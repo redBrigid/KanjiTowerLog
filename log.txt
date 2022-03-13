@@ -250,3 +250,13 @@ Results:
 
 Plans for tomorrow: 
 - list of changes in jQuery code to do
+
+==== Day 22 ====
+
+Results:
+- 20 new words
+- accessing HTML
+
+Plans for tomorrow: 
+- algorithm for cards
+- list of changes in jQuery code to do
