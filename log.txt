@@ -260,3 +260,12 @@ Results:
 Plans for tomorrow: 
 - algorithm for cards
 - list of changes in jQuery code to do
+
+==== Day 23 ====
+
+Results:
+- Pomodoro app - js only
+- playing with GW2 API
+
+Plans for tomorrow: 
+- slyle Pomodoro
