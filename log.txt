@@ -269,3 +269,11 @@ Results:
 
 Plans for tomorrow: 
 - slyle Pomodoro
+
+==== Day 24 ====
+
+Results:
+- Pomodoro styled - added template, still needs adjustments
+
+Plans for tomorrow: 
+- finish and host Pomodoro
