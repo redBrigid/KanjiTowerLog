@@ -286,3 +286,11 @@ Results:
 Plans for tomorrow: 
 - finish and host Pomodoro
 - fix Color Master
+
+==== Day 26 ====
+
+Results:
+- Color Master - I fixed the mess
+
+Plans for tomorrow: 
+- finish and host Pomodoro
