@@ -294,3 +294,11 @@ Results:
 
 Plans for tomorrow: 
 - finish and host Pomodoro
+
+==== Day 27 ====
+
+Results:
+- Color Master - styling float
+
+Plans for tomorrow: 
+- continue Color Master
