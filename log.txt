@@ -310,3 +310,16 @@ Results:
 
 Plans for tomorrow: 
 - continue Color Master
+
+==== Day 29 ====
+
+Results:
+- I added sound effects to Pomodoro project
+- added fieldset and legend section
+- fixed styles to match my plans
+- fixed bug in counting down
+- added editing time feature
+- uploaded at https://pomodoro-by-red-brigid.netlify.app/
+
+Plans for tomorrow: 
+- continue Color Master or play with back end or whatever...
