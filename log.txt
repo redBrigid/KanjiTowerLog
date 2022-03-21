@@ -323,3 +323,23 @@ Results:
 
 Plans for tomorrow: 
 - continue Color Master or play with back end or whatever...
+
+==== Day 30 ====
+
+Results:
+- sliders for rgb
+
+Fields to explore:
+- add extra feaures to Pomodoro I miss:
+-- counting up to infinity
+-- random "posture check" sounds
+-- add desired amount of time to current counting
+-- add counting of pomodoro's runs
+- add new features to Color Master:
+-- slide bars for hsl and rgb
+
+Plans for tomorrow: 
+- sliders for hsl
+
+
+
