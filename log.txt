@@ -341,5 +341,16 @@ Fields to explore:
 Plans for tomorrow: 
 - sliders for hsl
 
+==== Day 31 ====
+
+Results:
+- CSS sandbox tests
+
+Fields to explore:
+- collect my old "breathing animations"
+
+Plans for tomorrow: 
+- fix Pomodoro
+- sliders for hsl
 
 
