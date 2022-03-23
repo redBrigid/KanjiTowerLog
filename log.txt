@@ -353,4 +353,13 @@ Plans for tomorrow:
 - fix Pomodoro
 - sliders for hsl
 
+==== Day 32 ====
+
+Results:
+- CSS sandbox tests part2
+
+Plans for tomorrow: 
+- fix Pomodoro
+- sliders for hsl
+
 
