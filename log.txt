@@ -362,4 +362,14 @@ Plans for tomorrow:
 - fix Pomodoro
 - sliders for hsl
 
+==== Day 33 ====
+
+Results:
+- input sandbox tests
+- CodeWars
+
+Plans for tomorrow: 
+- fix Pomodoro
+- sliders for hsl
+
 
