@@ -372,4 +372,12 @@ Plans for tomorrow:
 - fix Pomodoro
 - sliders for hsl
 
+==== Day 34 ====
 
+Results:
+- CSS sea theme
+- CodeWars
+
+Plans for tomorrow: 
+- fix Pomodoro
+- sliders for hsl
