@@ -409,3 +409,14 @@ Results:
 Plans for tomorrow: 
 - fix Pomodoro
 - sliders for hsl
+
+==== Day 38 ====
+
+Results:
+- 1 simple CodeWars challenge...
+- fighting 1 hard CodeWars challenge for few hours
+- start of coding a clone of BBC site in Glitch
+
+Plans for tomorrow: 
+- fix Pomodoro
+- sliders for hsl
