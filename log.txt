@@ -420,3 +420,12 @@ Results:
 Plans for tomorrow: 
 - fix Pomodoro
 - sliders for hsl
+
+==== Day 39 ====
+
+Results:
+- just a 1 simple CodeWars challenge...
+
+Plans for tomorrow: 
+- fix Pomodoro
+- sliders for hsl
