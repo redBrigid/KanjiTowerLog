@@ -437,3 +437,11 @@ Results:
 
 Plans for tomorrow: 
 - CodeWars
+
+==== Day 41 ====
+
+Results:
+- just a 1 simple CodeWars challenge...
+
+Plans for tomorrow: 
+- CodeWars
