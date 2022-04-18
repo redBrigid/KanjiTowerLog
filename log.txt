@@ -453,3 +453,28 @@ Results:
 
 Plans for tomorrow: 
 - CodeWars
+
+==== Day 43 - 57 ====
+
+Every day CodeWars
+plus some random projects like styles but not much and not really serious
+
+==== Day 58 ====
+
+CodeWars
+
+GW2 API project 8h+:
+- data access
+- token access
+- styles
+- sections
+- adding to todo list
+- removing from list
+
+todo:
+- saving in browser
+- parametrized token
+- separate fetch from data rendering
+- displaying details
+
+==== Day 59 ====
